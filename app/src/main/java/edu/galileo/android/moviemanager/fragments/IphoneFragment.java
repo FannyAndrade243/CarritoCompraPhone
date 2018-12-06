@@ -60,6 +60,18 @@ public class IphoneFragment extends Fragment {
                 "https://i.linio.com/p/fb5aad3c2b7d08381f99bdb3c30c9e60-product.jpg"));
         movies.add(new Movie(3, "Celular iPhone 6/iPhone 7", "Caja felp PC contra rasguño  ", 4.50, 8.50,
                 "https://i.linio.com/p/c478417807483767b816a8cb843edb93-product.jpg"));
+        movies.add(new Movie(4, "Iphone 5/5s/5g", " se - unicornio", 5.00, 11.70,
+                "https://i.linio.com/p/db856ab253980406a4da6cfd322a1e30-product.jpg"));
+        movies.add(new Movie(5, "iPhone 6/7 Plus", "Cubierta Concha suave-Amarillo", 5.00, 4.00,
+                "https://i.linio.com/p/13d9505447fa2ac660a7e33a23684343-product.jpg"));
+        movies.add(new Movie(6, "phone 6/6s", " stich-3", 5.00, 11.70,
+                "https://i.linio.com/p/62e36ba52f1a7269f0a98aa2813df045-product.jpg"));
+        movies.add(new Movie(7, "Iphone 5c", "Textura-rallas", 2.00, 8.70,
+                "https://i.linio.com/p/a97e086506eed884dea1f48904c9bcf1-product.jpg"));
+        movies.add(new Movie(8, "Iphone 8+", "torre eiffel 10", 5.00, 13.30,
+                "https://i.linio.com/p/9b4e49bff6de20151a0525083bfcb36d-product.jpg"));
+
+
 
     }
 
